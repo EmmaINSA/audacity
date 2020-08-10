@@ -18018,7 +18018,7 @@ msgstr "Déplacer la piste vers le b&as"
 # trebmuh to check (accélérateur)
 #: src/tracks/ui/CommonTrackControls.cpp
 msgid "Move Track to &Top"
-msgstr "Déplacer la piste vers le hau&t"
+msgstr "Déplacer la piste tout en haut"
 
 # trebmuh to check (accélérateur)
 #: src/tracks/ui/CommonTrackControls.cpp
@@ -18027,7 +18027,7 @@ msgstr "Déplacer la piste tout en &bas"
 
 #: src/tracks/ui/CommonTrackControls.cpp
 msgid "Set Track Name"
-msgstr "Paramètrer le nom de la piste"
+msgstr "Paramétrer le nom de la piste"
 
 #: src/tracks/ui/CommonTrackControls.cpp
 #, c-format
@@ -18036,7 +18036,7 @@ msgstr " '%s' renommé en '%s'"
 
 #: src/tracks/ui/CommonTrackControls.cpp
 msgid "Name Change"
-msgstr "changement de nom"
+msgstr "Changement de nom"
 
 #: src/tracks/ui/EnvelopeHandle.cpp
 msgid "Click and drag to warp playback time"
